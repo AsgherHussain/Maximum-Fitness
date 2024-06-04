@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.maxim_fitness_2022_36331",
+    "sha256_cert_fingerprints":
+    ["32:CC:AF:55:E1:38:4A:E5:AF:BA:D3:9C:85:9C:FE:D3:71:06:BC:9C:CA:53:E7:C7:93:E4:DA:15:0E:AB:9F:6B"]
+  }
+}]
